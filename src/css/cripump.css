@@ -1,0 +1,92 @@
+#cripump{
+    padding: 10px;
+    background-image: linear-gradient(to bottom,white, rgb(255, 255, 82));
+}
+.logo img{
+    width: 500px;
+    /* margin-left: 100px; */
+}
+.p1 p{
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 500px;
+    font-family: 'Times New Roman', Times, serif
+}
+.p2 li{
+    text-align: left;
+    /* font-weight: bold; */
+    font-size: larger;
+    margin-left: 525px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: -15px;
+}
+.one img{
+    height: 600px;
+    width: 400px;
+    margin-right: 1200px;
+    margin-top: -70px;
+}
+.two img{
+    height: 500px;
+    width: 950px;
+    margin-left: 450px;
+    margin-top: -400px;
+}
+.p3 p{
+    text-align: left;
+    /* font-weight: bold; */
+    font-size: larger;
+    margin-left: 525px;
+    font-family: 'Times New Roman', Times, serif
+}
+.p4 p{
+    text-align: left;
+    /* font-weight: bold; */
+    font-size: larger;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
+.three img{
+    width: 1100px
+}
+.p5 p{
+    /* text-align: left; */
+    /* font-weight: bold; */
+    font-size: larger;
+    /* margin-left: 525px; */
+    font-family: 'Times New Roman', Times, serif
+}
+.line hr{
+    height: 1px;
+    /* color: red; */
+    background-color: red;
+}
+.p6 p{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.p7 span+span::before{
+    content: " | ";
+    padding: 1px;
+    color: red;
+}
+.bottom{
+    background-color: red;
+    height: 200PX;
+    margin-top: 50px;
+}
+.bottom span{
+    color: white;
+    /* padding: 150px; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+     padding: 150px;
+}
+.bottom i{
+    color: white;
+}
+.bottom p {
+    color: red;
+}
